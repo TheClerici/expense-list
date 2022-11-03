@@ -1,7 +1,5 @@
 import React from "react";
 
-import Chart from "./Chart";
-
 import "./ChartBar.css";
 
 function ChartBar(props) {
